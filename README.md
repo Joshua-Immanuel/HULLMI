@@ -1,6 +1,6 @@
 # HULLMI: Human vs. LLM Identification with Explainability
 
-Welcome to the official repository for the paper *"HULLMI: Human vs. LLM Identification with Explainability."* This repository contains the datasets used in our study, including our self-curated dataset, as well as the code used for various machine learning models.
+*"HULLMI: Human vs. LLM Identification with Explainability."* This repository contains the datasets used in our study and the code used for various machine learning models.
 
 ## Getting Started
 
